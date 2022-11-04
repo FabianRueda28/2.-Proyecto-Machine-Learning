@@ -12,7 +12,7 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
 ​
 Para esto, específicamente, debe predecir la **categorización** de las propiedades entre baratas o caras, considerando como criterio el valor promedio de los precios (la media). 
 
-# Metodología para posible Solución
+# Metodología 
 Se realizó el EDA (análisis exploratorio de los datos). Todo el trabajo fue realizado exclusivamente en Python. Para ello también se utilizaron librerías como Pandas, Scikit-learn, Matplotlib, Seaborn y Numpy.
 
 El modelo elegido, en este caso, fue el de arboles de decisión y el criterio de la “entropía”. Si bien la capacidad predictiva es superada por otros algoritmos, la razón fundamental de su aplicación radicó en su sencilla implementación y fácil interpretación.
