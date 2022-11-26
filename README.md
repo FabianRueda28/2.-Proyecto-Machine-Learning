@@ -1,7 +1,8 @@
 # Proyecto Individual No.2 - Machine Learning 
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.2---Machine-Learning/blob/main/src/05.01.%20Qu%C3%A9%20es%20el%20Machine%20Learning.jpg' height = 300, >
 
 # Mercado inmobiliario
-​
+
 Dentro de la sociedad globalizada e industrializada, es sabido que los precios de los inmuebles han presentado un constante cambio, por lo que quienes deseen invertir o vender una propiedad se enfrentan al fenómeno especulativo existente en la valorización de éstos. Esto, debido a la constante tendencia de las ciudades a crecer demográfica y comercialmente, llegando a un punto en donde no se tiene certeza de la valorización real dentro del sector en donde se desee invertir. 
 ​
 Pese a que el precio depende, en cierta medida, de las tendencias que esté teniendo el mercado inmobiliario en un determinado tiempo, poder estimar adecuadamente el valor de una propiedad es una referencia clave para entender si es una buena oportunidad, ya sea de compra o de venta.
@@ -16,6 +17,8 @@ Para esto, específicamente, debe predecir la **categorización** de las propied
 Se realizó el EDA (análisis exploratorio de los datos). Todo el trabajo fue realizado exclusivamente en Python. Para ello también se utilizaron librerías como Pandas, Scikit-learn, Matplotlib, Seaborn y Numpy.
 
 El modelo elegido, en este caso, fue el de arboles de decisión y el criterio de la “entropía”. Si bien la capacidad predictiva es superada por otros algoritmos, la razón fundamental de su aplicación radicó en su sencilla implementación y fácil interpretación.
+
+​<img src = 'https://github.com/FabianRueda28/Proyecto-No.2---Machine-Learning/blob/main/src/Captura%20de%20pantalla%202022-11-26%20162132.png' height = 300, >
 
 El archivo “pred.csv” es el que se utiliza para el score del modelo, tiene solamente una columna con los valores predichos y es lo que se solicita por parte de los mentores, para la comprobación del modelo.
 
